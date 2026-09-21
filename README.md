@@ -59,6 +59,8 @@ uvicorn app.main:app --host 127.0.0.1 --port 8000
 
 7. Abra `http://127.0.0.1:8000`.
 
-## Observação
+## Produtividade Oficina
 
-O OCR é usado como ponto de partida. A tela de conferência permite corrigir os campos antes de gravar, principalmente quando o PDF contém preenchimento manuscrito.
+A nova substituição web da planilha está em [produtividade/](./produtividade/).
+
+A versão pública não inclui os dados reais da oficina. Para usar a base real, exporte um backup JSON da aplicação local e restaure-o na aplicação web.
