@@ -1,0 +1,9 @@
+{
+  "name":"Produtividade Oficina",
+  "short_name":"Produtividade",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f4f7fb",
+  "theme_color":"#0f172a",
+  "lang":"pt-BR"
+}
